@@ -12,7 +12,7 @@ A Python library for efficient string search and retrieval with spell correction
 
 ## Installation
 
-(Provide installation instructions, e.g., using pip)
+TODO
 
 ## Usage
 
